@@ -1,14 +1,5 @@
 # Passphrase-Hackers
 
-This implementation was done as tenure long project under the **[Brain and Cognitive Science Club, IITK](https://bcs-iitk.github.io/)** by the following 2nd year UG Secretaries:
-
-1. [Udbhav Agarwal](https://github.com/udbhav-44)
-2. [Sagar Arora](https://github.com/qu-bit1)
-
-Mentors:
-
-1. [Aniruddh Pramod](https://github.com/atryt0ne)
-
 Trained Model weights trained on 700 epochs also provided in the repo under the name `700_passphrase.pth`
 
 ## Introduction
